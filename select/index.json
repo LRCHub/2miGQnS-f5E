@@ -1,0 +1,120 @@
+{
+  "version": 1,
+  "base_track": "One Of Your Girls",
+  "base_artist": "Troye Sivan",
+  "createdAt": "2026-03-04T10:36:30.858681Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "One Of Your Girls",
+      "artist": "Troye Sivan",
+      "has_synced": true,
+      "path": "select/01_One_Of_Your_Girls_Troye_Sivan.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "One of Your Girls",
+      "artist": "Troye Sivan",
+      "has_synced": false,
+      "path": "select/02_One_of_Your_Girls_Troye_Sivan.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "One Of Your Girls",
+      "artist": "Various",
+      "has_synced": true,
+      "path": "select/03_One_Of_Your_Girls_Various.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "One Of Your Girls",
+      "artist": "Troye Sivan",
+      "has_synced": true,
+      "path": "select/04_One_Of_Your_Girls_Troye_Sivan.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "One Of Your Girls",
+      "artist": "Troye Sivan",
+      "has_synced": true,
+      "path": "select/05_One_Of_Your_Girls_Troye_Sivan.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "One of Your Girls",
+      "artist": "Troye Sivan",
+      "has_synced": true,
+      "path": "select/06_One_of_Your_Girls_Troye_Sivan.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "One of Your Girls (Official Video)",
+      "artist": "Troye Sivan",
+      "has_synced": true,
+      "path": "select/07_One_of_Your_Girls_(Official_Video)_Troye_Sivan.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "One Of Your Girls",
+      "artist": "Troye sivan",
+      "has_synced": true,
+      "path": "select/08_One_Of_Your_Girls_Troye_sivan.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "One of Your Girls",
+      "artist": "Troye Sivan",
+      "has_synced": true,
+      "path": "select/09_One_of_Your_Girls_Troye_Sivan.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "One of Your Girls",
+      "artist": "Griff",
+      "has_synced": true,
+      "path": "select/10_One_of_Your_Girls_Griff.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Troye Sivan - One of Your Girls (Lyrics)",
+      "artist": "7clouds",
+      "has_synced": true,
+      "path": "select/11_Troye_Sivan_-_One_of_Your_Girls_(Lyrics)_7clouds.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "One of Your Girls",
+      "artist": "Troye Sivan",
+      "has_synced": true,
+      "path": "select/12_One_of_Your_Girls_Troye_Sivan.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "One of Your Girls (Official Video)",
+      "artist": "Video • Troye Sivan",
+      "has_synced": true,
+      "path": "select/13_One_of_Your_Girls_(Official_Video)_Video_•_Troye_Sivan.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "One Of Your Girls",
+      "artist": "Troye Sivan",
+      "has_synced": false,
+      "path": "select/pl_01_One_Of_Your_Girls_Troye_Sivan.txt"
+    }
+  ]
+}
