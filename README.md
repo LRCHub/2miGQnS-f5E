@@ -1,0 +1,47 @@
+# Troye Sivan – One Of Your Girls
+
+> **歌詞登録ステータス：同期歌詞あり**
+
+```lrc
+[00:09.86] Everybody loves you, baby
+[00:15.02] You should trademark your face
+[00:20.26] Linin' down the block to be around you
+[00:25.10] But, baby, I'm first in place
+[00:39.60] 
+[00:30.79] Face card, no cash, no credit
+[00:36.05] Yes, God, don't speak, you said it
+[00:40.68] Look at you
+[00:42.49] Skip the application, interview
+[00:45.25] Sweet like Marabou
+[00:48.04] Look, look at you
+[00:56.54] 
+[00:51.94] Give me a call if you ever get lonely
+[00:57.14] I'll be like one of your girls or your homies
+[01:02.54] Say what you want, and I'll keep it a secret
+[01:07.68] You get the key to my heart, and I need it
+[01:13.04] Give me a call if you ever get desperate
+[01:17.92] I'll be like one of your girls
+[01:32.92] 
+[01:22.37] Everybody wants you, baby (everybody)
+[01:27.32] You should insure that waist (with the highest policy you can get)
+[01:33.02] Bet nobody wants you bad as I do
+[01:37.64] Baby, let me plead my case, yeah
+[01:53.64] 
+[01:43.26] Face card, no cash, no credit
+[01:47.77] Yes, God, don't speak, you said it
+[01:52.69] Look at you
+[01:54.88] Pop the culture, iconography
+[01:57.52] Is standin' right in front of me
+[02:00.12] Look, look at you
+[02:08.62] 
+[02:03.58] Give me a call if you ever get lonely
+[02:09.19] I'll be like one of your girls or your homies
+[02:14.50] Say what you want, and I'll keep it a secret
+[02:19.80] You get the key to my heart, and I need it
+[02:24.86] Give me a call if you ever get desperate
+[02:30.14] I'll be like one of your girls
+[02:45.14] 
+[02:34.67] Ah, ah-ah (ah, ah-ah)
+[02:46.02] Give me a call if you ever get desperate
+[02:50.85] I'll be like one of your girls
+```
